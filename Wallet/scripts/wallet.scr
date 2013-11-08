@@ -1,0 +1,10 @@
+//Test script for Applet 'Wallet'
+
+powerup;
+// Select Wallet //aid/6072B2E2E0/39
+0x00 0xA4 0x04 0x00 0X06 0X60 0X72 0XB2 0XE2 0XE0 0X3A 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;
